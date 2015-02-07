@@ -1,6 +1,7 @@
 /** @jsx React.DOM */
 
 require("../css/pillbox.css");
+var React = require("react/addons");
 
 var pillbox = {};
 
