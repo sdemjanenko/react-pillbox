@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Pillbox component for React",
   "private": true,
+  "main": "./src/js/pillbox.jsx",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.7.0",

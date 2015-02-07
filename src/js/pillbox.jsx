@@ -1,5 +1,7 @@
 /** @jsx React.DOM */
 
+require("../css/pillbox.css");
+
 var pillbox = {};
 
 (function () {
